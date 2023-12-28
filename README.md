@@ -1,2 +1,2 @@
-# Savan-s-Project
-This is my first project
+# Project
+This is my first Git Repository
